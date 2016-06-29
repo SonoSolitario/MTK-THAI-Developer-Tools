@@ -1,4 +1,4 @@
-# MTK-THAI-Developer-Tools
+# MTK THAI Developer Tools
 MTK THAI Developer Tools Tools for Android Custom rom dev
  
 <h4>Change log</h4>
