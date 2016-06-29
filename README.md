@@ -2,7 +2,7 @@
 MTK THAI Developer Tools Tools for Android Custom rom dev
  
 <h4><b>Change log</b></h4><br>
-<b>v1.0.1.0 (29-06-1026)</b><br>
+<h5>v1.0.1.0 (29-06-1026)</h5><br>
 unpack system.new.dat file<br>
 repack system.new.dat file <br>
 unpack system.img file <br>
