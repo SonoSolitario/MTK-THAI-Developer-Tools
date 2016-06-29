@@ -1,9 +1,8 @@
 # MTK-THAI-Developer-Tools
 MTK THAI Developer Tools Tools for Android Custom rom dev
-<h2>
+<h3>
 Feature
-  
-</h2>
+</h3>
 
 unpack system.new.dat file<br>
 repack system.new.dat file <br>
