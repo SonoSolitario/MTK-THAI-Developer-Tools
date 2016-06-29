@@ -2,7 +2,7 @@
 MTK THAI Developer Tools Tools for Android Custom rom dev
  
 <h4><b>Change log</b></h4>
-<h5><a href="https://www.androidfilehost.com/?fid=24591023225177308">v1.0.1.1 (30-06-2016) Last version </a></h5>
+<h5><a href="https://www.androidfilehost.com/?fid=24591023225177313">v1.0.1.1 (30-06-2016) Last version </a></h5>
 -Fix some bug<br>
 <h5><a href="https://www.androidfilehost.com/?fid=24591023225177291">v1.0.1.0 (29-06-2016) </a></h5>
 -unpack system.new.dat file<br>
