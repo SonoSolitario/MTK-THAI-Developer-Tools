@@ -2,14 +2,14 @@
 MTK THAI Developer Tools Tools for Android Custom rom dev
 <b>
   Feature
-</b>
+</b><br>
 
-unpack system.new.dat file
-repack system.new.dat file 
-unpack system.img file 
-repack system.img file 
-unpack bootimg file 
-repack bootimg file 
-unpack recovery file 
-repack recovery file 
-deodext android lollipop rom
+unpack system.new.dat file><br>
+repack system.new.dat file ><br>
+unpack system.img file ><br>
+repack system.img file ><br>
+unpack bootimg file ><br>
+repack bootimg file ><br>
+unpack recovery file ><br>
+repack recovery file ><br>
+deodext android lollipop rom><br>
