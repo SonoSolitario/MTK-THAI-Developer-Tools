@@ -3,8 +3,14 @@ MTK THAI Developer Tools Tools for Android Custom rom dev
  
 <h4>Change log</h4>
 
+<h5><a href="https://www.androidfilehost.com/?fid=24591023225177325">v1.0.1.3 (30-06-2016) Last version </a></h5> 
+<ul style="list-style-type:disc">
+<li>Fix white space directory name in system.new.dat </li>
+<li>Fix white space directory name in system.img </li>
+<li>Update new user interface </li>
+</ul>
 
-<h5><a href="https://www.androidfilehost.com/?fid=24591023225177314">v1.0.1.2 (30-06-2016) Last version </a></h5> 
+<h5><a href="https://www.androidfilehost.com/?fid=24591023225177314">v1.0.1.2 (30-06-2016) </a></h5> 
 <ul style="list-style-type:disc">
 <li>Fix some bug </li>
 <li>Fix system.img bug </li>
